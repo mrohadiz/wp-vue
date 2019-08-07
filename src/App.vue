@@ -2,7 +2,7 @@
   <div id="app">
 
     <TopBar
-      @showUpdater="showUpdater = true"
+      @showUpdater="showUpdater = false"
     />
 
     <div id="wrapper">
