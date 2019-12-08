@@ -16,11 +16,7 @@
           <li>
             <span>Published on {{ date }}</span>
           </li>
-          <li>
-            <span>
-              <a :href="link">View Post at Source</a>
-            </span>
-          </li>
+          
         </ul>
       </header>
 
