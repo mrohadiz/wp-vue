@@ -6,7 +6,7 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        OpLove Mini
       </router-link>
     </h1>
 
