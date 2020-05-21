@@ -5,7 +5,10 @@
       <p>
         Test Versi Ringan Dari Website Kesayangan Kalian</p>
     </section>
-
+<Pagination
+      :currentPage="parseInt(page)"
+      :totalPages="parseInt(totalPages)"
+    ></Pagination>
     <ul>
       <Card
         v-for="post in posts"
