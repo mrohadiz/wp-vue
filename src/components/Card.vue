@@ -1,10 +1,5 @@
 <template>
   <li>
-    <router-link
-      v-if="post.featured_image"
-      :to="{ name: 'post', params: { slug: post.slug } }">
-      <img :src="post.featured_image" alt="Blog Post Featured Image"/>
-    </router-link>
     <span>
       <i>&mdash;</i>
         {{ getFormattedDate(post.date) }}
