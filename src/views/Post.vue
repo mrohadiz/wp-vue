@@ -2,7 +2,7 @@
   <div>
 
     <article>
-
+<script data-ad-client="ca-pub-8544637539985039" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <a @click="goBack">Back to All Posts</a>
 
       <header>
