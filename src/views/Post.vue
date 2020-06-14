@@ -25,6 +25,9 @@
     </article>
 
   </div>
+   <div class="comments">
+    <disqus shortname="operatodotga"></disqus>
+  </div>
 </template>
 
 <script>
